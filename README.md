@@ -1,7 +1,7 @@
 
 # Quick Advisor
 
-### [Live Site](https://advisor-quick.netlify.app/)
+### [Live Site](https://quick-advisor.netlify.app/)
 
 
 <div style="width:100%">
